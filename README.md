@@ -53,71 +53,59 @@ date-fns provides the most comprehensive, yet simple and consistent toolset for 
 
 10. **framer-motion:**
 
-
     It powers the amazing animations and interactions in Framer, the web builder for creative pros. Zero code, maximum speed.
     [URL] https://www.framer.com/motion/introduction/
 
 11. **lodash:**
-
 
     A modern JavaScript utility library delivering modularity, performance & extras. Basically many functions to handle data in your JavaScript arrays or objects.
     [URL] https://lodash.com/ || https://lodash.com/docs/4.17.15
 
 12. **lucide-react:**
 
-
     Beautiful & consistent icon toolkit made by the community.
     [URL] https://lucide.dev/
 
 13. **nanoid:**
-
 
     A tiny, secure, URL-friendly, unique string ID generator for JavaScript.
     [URL] https://www.npmjs.com/package/nanoid
 
 14. **next-themes:**
 
-
     An abstraction for themes in your Next.js app. (e.g. Perfect dark mode in 2 lines of code)
     [URL] https://www.npmjs.com/package/next-themes
 
 15. **openai:**
-
 
     The OpenAI Node.js library provides convenient access to the OpenAI API from Node.js applications.
     [URL] https://www.npmjs.com/package/openai
 
 16. **prism-react-renderer:**
 
-
     A lean Prism highlighter component for React Comes with everything to render Prismjs highlighted code directly to React (Native) elements, global-pollution-free!
     [URL] https://www.npmjs.com/package/prism-react-renderer
 
 17. **react-hot-toast:**
-
 
     The Best Toast in Town. Smoking hot React notifications.
     [URL] https://react-hot-toast.com/
 
 18. **sharp:**
 
-
     The typical use case for this high speed Node.js module is to convert large images in common formats to smaller, web-friendly JPEG, PNG, WebP, GIF and AVIF images of varying dimensions.
     [URL] https://www.npmjs.com/package/sharp
 
 19. **simplebar-react:**
 
-
     [URL] https://www.npmjs.com/package/simplebar-react
 
 20. **tailwind-merge:**
-
 
     Utility function to efficiently merge Tailwind CSS classes in JS without style conflicts.
     [URL] https://www.npmjs.com/package/tailwind-merge
 
 21. **zod:**
-
 
     TypeScript-first schema validation with static type inference
     [URL] https://www.npmjs.com/package/zod
