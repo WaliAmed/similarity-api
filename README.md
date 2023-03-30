@@ -1,4 +1,7 @@
-**Packages Details**
+**About**
+Easily determine text similarity. With the Text Similarity API, you can easily determine the similarity between two pieces of text with a free API key.
+
+**Packages Used In This Project**
 
 1. ## @emotion/react @emotion/styled:
 
